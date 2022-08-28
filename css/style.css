@@ -12,7 +12,7 @@ body:hover{
   }
 
 .hck:hover{
-  visibility: hidden;
+  display: None;
 }
 hr {
   border-color: #411530;
