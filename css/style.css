@@ -4,8 +4,16 @@ body {
   font-family: "Lucida Console", Courier, monospace;
   font-variant: small-caps;
   color: #2E0249;
-}
 
+}
+body:hover{
+  background-color: black;
+  color: #FFFDAF;
+  }
+
+.hck:hover{
+  visibility: hidden;
+}
 hr {
   border-color: #411530;
   border-width: 10px;
@@ -27,4 +35,19 @@ a {
 
 strong {
   color: #1A374D;
+}
+strong:hover{
+  color: #F47C7C;
+}
+
+.tc
+{
+  color: #D92027;
+}
+.tc:hover{
+  color: white;
+}
+
+.cg:hover{
+  color: blue;
 }
