@@ -1,5 +1,5 @@
 body {
-  background-color: white;
+  background-color: #EEF2E6;
   font-style: italic;
   font-family: "Lucida Console", Courier, monospace;
   font-variant: small-caps;
@@ -7,7 +7,7 @@ body {
 
 }
 body:hover{
-  background-color: black;
+  background-color: #2C3333;
   color: #FFFDAF;
   }
 
